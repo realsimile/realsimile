@@ -13,11 +13,5 @@ i program
 - 👀 I’m interested in programming and solving problems!
 - 🌱 I’m currently learning web and game development.
 - 📫 How to reach me : Discord : realsimile
-</pre>
-
-.. _section-0:
    
-.. |image0| image:: https://img.shields.io/badge/paypal-donate-yellow?style=flat-square&logo=Paypal
-   :target: https://paypal.me/lambarini
-   
-.. |Snake animation| image:: https://github.com/fgsoftware1/lambarini/blob/output/github-contribution-grid-snake.svg
+.. |Snake animation| image:: https://github.com/fgsoftware1/realsimile/blob/output/github-contribution-grid-snake.svg
