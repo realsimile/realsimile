@@ -9,7 +9,6 @@
      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=realsimile&show_icons=true&theme=radical"/>
      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realsimile&layout=compact&langs_count=15&theme=radical"/>
    </div>
-</pre>
 
 .. _section-0:
    
